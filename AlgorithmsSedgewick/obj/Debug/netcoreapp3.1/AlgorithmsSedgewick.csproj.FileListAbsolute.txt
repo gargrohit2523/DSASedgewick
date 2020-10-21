@@ -1,0 +1,13 @@
+H:\codebase\AlgorithmsSolution\AlgorithmsSedgewick\AlgorithmsSedgewick\bin\Debug\netcoreapp3.1\AlgorithmsSedgewick.exe
+H:\codebase\AlgorithmsSolution\AlgorithmsSedgewick\AlgorithmsSedgewick\bin\Debug\netcoreapp3.1\AlgorithmsSedgewick.deps.json
+H:\codebase\AlgorithmsSolution\AlgorithmsSedgewick\AlgorithmsSedgewick\bin\Debug\netcoreapp3.1\AlgorithmsSedgewick.runtimeconfig.json
+H:\codebase\AlgorithmsSolution\AlgorithmsSedgewick\AlgorithmsSedgewick\bin\Debug\netcoreapp3.1\AlgorithmsSedgewick.runtimeconfig.dev.json
+H:\codebase\AlgorithmsSolution\AlgorithmsSedgewick\AlgorithmsSedgewick\bin\Debug\netcoreapp3.1\AlgorithmsSedgewick.dll
+H:\codebase\AlgorithmsSolution\AlgorithmsSedgewick\AlgorithmsSedgewick\bin\Debug\netcoreapp3.1\AlgorithmsSedgewick.pdb
+H:\codebase\AlgorithmsSolution\AlgorithmsSedgewick\AlgorithmsSedgewick\obj\Debug\netcoreapp3.1\AlgorithmsSedgewick.csprojAssemblyReference.cache
+H:\codebase\AlgorithmsSolution\AlgorithmsSedgewick\AlgorithmsSedgewick\obj\Debug\netcoreapp3.1\AlgorithmsSedgewick.AssemblyInfoInputs.cache
+H:\codebase\AlgorithmsSolution\AlgorithmsSedgewick\AlgorithmsSedgewick\obj\Debug\netcoreapp3.1\AlgorithmsSedgewick.AssemblyInfo.cs
+H:\codebase\AlgorithmsSolution\AlgorithmsSedgewick\AlgorithmsSedgewick\obj\Debug\netcoreapp3.1\AlgorithmsSedgewick.csproj.CoreCompileInputs.cache
+H:\codebase\AlgorithmsSolution\AlgorithmsSedgewick\AlgorithmsSedgewick\obj\Debug\netcoreapp3.1\AlgorithmsSedgewick.dll
+H:\codebase\AlgorithmsSolution\AlgorithmsSedgewick\AlgorithmsSedgewick\obj\Debug\netcoreapp3.1\AlgorithmsSedgewick.pdb
+H:\codebase\AlgorithmsSolution\AlgorithmsSedgewick\AlgorithmsSedgewick\obj\Debug\netcoreapp3.1\AlgorithmsSedgewick.genruntimeconfig.cache

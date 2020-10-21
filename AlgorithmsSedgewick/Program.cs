@@ -1,4 +1,5 @@
 ﻿using AlgorithmsSedgewick.LinkedList;
+using AlgorithmsSedgewick.Queue;
 using System;
 
 namespace AlgorithmsSedgewick
@@ -7,8 +8,20 @@ namespace AlgorithmsSedgewick
     {
         static void Main(string[] args)
         {
-            DriverSinglyLinkedList();
+            QueueDriver();
             Console.ReadLine();
+        }
+
+        public static void QueueDriver()
+        {
+            RingBuffer<int> buffer = new RingBuffer<int>(10);
+            buffer.Enqueue(1);
+            buffer.Enqueue(2);
+
+            Console.WriteLine(buffer.Dequeue());
+            Console.WriteLine(buffer.Dequeue());
+
+            Console.WriteLine(buffer.count);
         }
 
         public static void DriverDoublyLinkedList()
@@ -24,14 +37,15 @@ namespace AlgorithmsSedgewick
         public static void DriverSinglyLinkedList()
         {
             SinglyLinkedList<int> list = new SinglyLinkedList<int>();
-            list.InsertFirst(1);
-            list.InsertFirst(2);
-            list.InsertFirst(3);
-            list.InsertFirst(4);
+
+            for (int i = 1; i <= 1000; i++)
+            {
+                list.InsertFirst(i);
+            }
 
             list.Reverse();
 
-            list.GetAllItems();
+            //list.GetAllItems();
         }
 
         public static void DriverForBalancedArithmeticExpression() {
